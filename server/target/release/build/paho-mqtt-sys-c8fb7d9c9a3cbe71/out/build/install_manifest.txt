@@ -1,0 +1,30 @@
+/home/pi/wip/rust/rust-mqtt/server/target/release/build/paho-mqtt-sys-c8fb7d9c9a3cbe71/out/share/doc/Eclipse Paho C/samples/MQTTAsync_publish.c
+/home/pi/wip/rust/rust-mqtt/server/target/release/build/paho-mqtt-sys-c8fb7d9c9a3cbe71/out/share/doc/Eclipse Paho C/samples/MQTTAsync_publish_time.c
+/home/pi/wip/rust/rust-mqtt/server/target/release/build/paho-mqtt-sys-c8fb7d9c9a3cbe71/out/share/doc/Eclipse Paho C/samples/MQTTAsync_subscribe.c
+/home/pi/wip/rust/rust-mqtt/server/target/release/build/paho-mqtt-sys-c8fb7d9c9a3cbe71/out/share/doc/Eclipse Paho C/samples/MQTTClient_publish.c
+/home/pi/wip/rust/rust-mqtt/server/target/release/build/paho-mqtt-sys-c8fb7d9c9a3cbe71/out/share/doc/Eclipse Paho C/samples/MQTTClient_publish_async.c
+/home/pi/wip/rust/rust-mqtt/server/target/release/build/paho-mqtt-sys-c8fb7d9c9a3cbe71/out/share/doc/Eclipse Paho C/samples/MQTTClient_subscribe.c
+/home/pi/wip/rust/rust-mqtt/server/target/release/build/paho-mqtt-sys-c8fb7d9c9a3cbe71/out/share/doc/Eclipse Paho C/samples/paho_c_pub.c
+/home/pi/wip/rust/rust-mqtt/server/target/release/build/paho-mqtt-sys-c8fb7d9c9a3cbe71/out/share/doc/Eclipse Paho C/samples/paho_c_sub.c
+/home/pi/wip/rust/rust-mqtt/server/target/release/build/paho-mqtt-sys-c8fb7d9c9a3cbe71/out/share/doc/Eclipse Paho C/samples/paho_cs_pub.c
+/home/pi/wip/rust/rust-mqtt/server/target/release/build/paho-mqtt-sys-c8fb7d9c9a3cbe71/out/share/doc/Eclipse Paho C/samples/paho_cs_sub.c
+/home/pi/wip/rust/rust-mqtt/server/target/release/build/paho-mqtt-sys-c8fb7d9c9a3cbe71/out/share/doc/Eclipse Paho C/samples/pubsub_opts.c
+/home/pi/wip/rust/rust-mqtt/server/target/release/build/paho-mqtt-sys-c8fb7d9c9a3cbe71/out/share/doc/Eclipse Paho C/CONTRIBUTING.md
+/home/pi/wip/rust/rust-mqtt/server/target/release/build/paho-mqtt-sys-c8fb7d9c9a3cbe71/out/share/doc/Eclipse Paho C/epl-v20
+/home/pi/wip/rust/rust-mqtt/server/target/release/build/paho-mqtt-sys-c8fb7d9c9a3cbe71/out/share/doc/Eclipse Paho C/edl-v10
+/home/pi/wip/rust/rust-mqtt/server/target/release/build/paho-mqtt-sys-c8fb7d9c9a3cbe71/out/share/doc/Eclipse Paho C/README.md
+/home/pi/wip/rust/rust-mqtt/server/target/release/build/paho-mqtt-sys-c8fb7d9c9a3cbe71/out/share/doc/Eclipse Paho C/notice.html
+/home/pi/wip/rust/rust-mqtt/server/target/release/build/paho-mqtt-sys-c8fb7d9c9a3cbe71/out/lib/libpaho-mqtt3c.a
+/home/pi/wip/rust/rust-mqtt/server/target/release/build/paho-mqtt-sys-c8fb7d9c9a3cbe71/out/lib/libpaho-mqtt3a.a
+/home/pi/wip/rust/rust-mqtt/server/target/release/build/paho-mqtt-sys-c8fb7d9c9a3cbe71/out/include/MQTTAsync.h
+/home/pi/wip/rust/rust-mqtt/server/target/release/build/paho-mqtt-sys-c8fb7d9c9a3cbe71/out/include/MQTTClient.h
+/home/pi/wip/rust/rust-mqtt/server/target/release/build/paho-mqtt-sys-c8fb7d9c9a3cbe71/out/include/MQTTClientPersistence.h
+/home/pi/wip/rust/rust-mqtt/server/target/release/build/paho-mqtt-sys-c8fb7d9c9a3cbe71/out/include/MQTTProperties.h
+/home/pi/wip/rust/rust-mqtt/server/target/release/build/paho-mqtt-sys-c8fb7d9c9a3cbe71/out/include/MQTTReasonCodes.h
+/home/pi/wip/rust/rust-mqtt/server/target/release/build/paho-mqtt-sys-c8fb7d9c9a3cbe71/out/include/MQTTSubscribeOpts.h
+/home/pi/wip/rust/rust-mqtt/server/target/release/build/paho-mqtt-sys-c8fb7d9c9a3cbe71/out/include/MQTTExportDeclarations.h
+/home/pi/wip/rust/rust-mqtt/server/target/release/build/paho-mqtt-sys-c8fb7d9c9a3cbe71/out/lib/libpaho-mqtt3cs.a
+/home/pi/wip/rust/rust-mqtt/server/target/release/build/paho-mqtt-sys-c8fb7d9c9a3cbe71/out/lib/libpaho-mqtt3as.a
+/home/pi/wip/rust/rust-mqtt/server/target/release/build/paho-mqtt-sys-c8fb7d9c9a3cbe71/out/lib/cmake/eclipse-paho-mqtt-c/eclipse-paho-mqtt-cConfig.cmake
+/home/pi/wip/rust/rust-mqtt/server/target/release/build/paho-mqtt-sys-c8fb7d9c9a3cbe71/out/lib/cmake/eclipse-paho-mqtt-c/eclipse-paho-mqtt-cConfig-release.cmake
+/home/pi/wip/rust/rust-mqtt/server/target/release/build/paho-mqtt-sys-c8fb7d9c9a3cbe71/out/lib/cmake/eclipse-paho-mqtt-c/eclipse-paho-mqtt-cConfigVersion.cmake
