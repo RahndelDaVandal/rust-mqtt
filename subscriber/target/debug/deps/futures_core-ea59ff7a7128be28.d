@@ -1,0 +1,11 @@
+/home/pi/wip/rust/rust-mqtt/broker/target/debug/deps/futures_core-ea59ff7a7128be28.rmeta: /home/pi/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-core-0.3.23/src/lib.rs /home/pi/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-core-0.3.23/src/future.rs /home/pi/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-core-0.3.23/src/stream.rs /home/pi/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-core-0.3.23/src/task/mod.rs /home/pi/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-core-0.3.23/src/task/poll.rs /home/pi/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-core-0.3.23/src/task/__internal/mod.rs /home/pi/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-core-0.3.23/src/task/__internal/atomic_waker.rs
+
+/home/pi/wip/rust/rust-mqtt/broker/target/debug/deps/futures_core-ea59ff7a7128be28.d: /home/pi/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-core-0.3.23/src/lib.rs /home/pi/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-core-0.3.23/src/future.rs /home/pi/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-core-0.3.23/src/stream.rs /home/pi/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-core-0.3.23/src/task/mod.rs /home/pi/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-core-0.3.23/src/task/poll.rs /home/pi/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-core-0.3.23/src/task/__internal/mod.rs /home/pi/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-core-0.3.23/src/task/__internal/atomic_waker.rs
+
+/home/pi/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-core-0.3.23/src/lib.rs:
+/home/pi/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-core-0.3.23/src/future.rs:
+/home/pi/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-core-0.3.23/src/stream.rs:
+/home/pi/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-core-0.3.23/src/task/mod.rs:
+/home/pi/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-core-0.3.23/src/task/poll.rs:
+/home/pi/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-core-0.3.23/src/task/__internal/mod.rs:
+/home/pi/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-core-0.3.23/src/task/__internal/atomic_waker.rs:
